@@ -1,0 +1,14 @@
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\bin\Debug\net9.0\SiepleCal.exe
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\bin\Debug\net9.0\SiepleCal.deps.json
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\bin\Debug\net9.0\SiepleCal.runtimeconfig.json
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\bin\Debug\net9.0\SiepleCal.dll
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\bin\Debug\net9.0\SiepleCal.pdb
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\obj\Debug\net9.0\SiepleCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\obj\Debug\net9.0\SiepleCal.AssemblyInfoInputs.cache
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\obj\Debug\net9.0\SiepleCal.AssemblyInfo.cs
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\obj\Debug\net9.0\SiepleCal.csproj.CoreCompileInputs.cache
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\obj\Debug\net9.0\SiepleCal.dll
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\obj\Debug\net9.0\refint\SiepleCal.dll
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\obj\Debug\net9.0\SiepleCal.pdb
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\obj\Debug\net9.0\SiepleCal.genruntimeconfig.cache
+C:\Users\53930637847\Desktop\Back_End\SiepleCal\obj\Debug\net9.0\ref\SiepleCal.dll
