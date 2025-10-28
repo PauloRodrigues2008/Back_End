@@ -1,0 +1,15 @@
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\bin\Debug\net9.0\ReviewArrys.exe
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\bin\Debug\net9.0\ReviewArrys.deps.json
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\bin\Debug\net9.0\ReviewArrys.runtimeconfig.json
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\bin\Debug\net9.0\ReviewArrys.dll
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\bin\Debug\net9.0\ReviewArrys.pdb
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\obj\Debug\net9.0\ReviewArrys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\obj\Debug\net9.0\ReviewArrys.AssemblyInfoInputs.cache
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\obj\Debug\net9.0\ReviewArrys.AssemblyInfo.cs
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\obj\Debug\net9.0\ReviewArrys.csproj.CoreCompileInputs.cache
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\obj\Debug\net9.0\ReviewArrys.sourcelink.json
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\obj\Debug\net9.0\ReviewArrys.dll
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\obj\Debug\net9.0\refint\ReviewArrys.dll
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\obj\Debug\net9.0\ReviewArrys.pdb
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\obj\Debug\net9.0\ReviewArrys.genruntimeconfig.cache
+C:\Users\53930637847\Desktop\Back_End\ReviewArrys\obj\Debug\net9.0\ref\ReviewArrys.dll
