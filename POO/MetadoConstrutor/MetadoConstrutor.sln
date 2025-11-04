@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetadoConstrutor", "MetadoConstrutor.csproj", "{1DBFF89C-834A-6299-263D-DB541EC70C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DBFF89C-834A-6299-263D-DB541EC70C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBFF89C-834A-6299-263D-DB541EC70C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBFF89C-834A-6299-263D-DB541EC70C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBFF89C-834A-6299-263D-DB541EC70C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853D4127-5AE1-496A-986D-6135F755CD54}
+	EndGlobalSection
+EndGlobal

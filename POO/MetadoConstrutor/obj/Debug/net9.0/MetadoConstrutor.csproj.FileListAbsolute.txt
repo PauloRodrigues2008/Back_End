@@ -1,0 +1,15 @@
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\bin\Debug\net9.0\MetadoConstrutor.exe
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\bin\Debug\net9.0\MetadoConstrutor.deps.json
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\bin\Debug\net9.0\MetadoConstrutor.runtimeconfig.json
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\bin\Debug\net9.0\MetadoConstrutor.dll
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\bin\Debug\net9.0\MetadoConstrutor.pdb
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\obj\Debug\net9.0\MetadoConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\obj\Debug\net9.0\MetadoConstrutor.AssemblyInfoInputs.cache
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\obj\Debug\net9.0\MetadoConstrutor.AssemblyInfo.cs
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\obj\Debug\net9.0\MetadoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\obj\Debug\net9.0\MetadoConstrutor.sourcelink.json
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\obj\Debug\net9.0\MetadoConstrutor.dll
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\obj\Debug\net9.0\refint\MetadoConstrutor.dll
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\obj\Debug\net9.0\MetadoConstrutor.pdb
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\obj\Debug\net9.0\MetadoConstrutor.genruntimeconfig.cache
+C:\Users\53930637847\Desktop\Back_End\POO\MetadoConstrutor\obj\Debug\net9.0\ref\MetadoConstrutor.dll

@@ -1,0 +1,15 @@
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\bin\Debug\net9.0\primeiraClasse.exe
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\bin\Debug\net9.0\primeiraClasse.deps.json
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\bin\Debug\net9.0\primeiraClasse.runtimeconfig.json
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\bin\Debug\net9.0\primeiraClasse.dll
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\bin\Debug\net9.0\primeiraClasse.pdb
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\obj\Debug\net9.0\primeiraClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\obj\Debug\net9.0\primeiraClasse.AssemblyInfoInputs.cache
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\obj\Debug\net9.0\primeiraClasse.AssemblyInfo.cs
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\obj\Debug\net9.0\primeiraClasse.csproj.CoreCompileInputs.cache
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\obj\Debug\net9.0\primeiraClasse.sourcelink.json
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\obj\Debug\net9.0\primeiraClasse.dll
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\obj\Debug\net9.0\refint\primeiraClasse.dll
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\obj\Debug\net9.0\primeiraClasse.pdb
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\obj\Debug\net9.0\primeiraClasse.genruntimeconfig.cache
+C:\Users\53930637847\Desktop\Back_End\POO\primeiraClasse\obj\Debug\net9.0\ref\primeiraClasse.dll
